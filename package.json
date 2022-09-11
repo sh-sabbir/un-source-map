@@ -1,5 +1,5 @@
 {
-  "name": "un-source-map",
+  "name": "@sabbirshouvo/un-source-map",
   "version": "1.0.0",
   "description": "Unpack your JS source maps to original files and folders in a proper way.",
   "main": "dist/index.js",

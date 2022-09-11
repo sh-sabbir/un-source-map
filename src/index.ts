@@ -24,7 +24,7 @@ ${chalk.green(`█▄█ █░▀█ █░▀░█ █▀█ █▀�
 
 /* Main entry point to the CLI */
 program
-    .name('unmap2')
+    .name('unmap')
     .version(version, '-v, -V', 'output the current version')
     .argument('[source]', 'enter path to sourcemap')
     .option('-o, --output <path>', 'path to output dir', '')
