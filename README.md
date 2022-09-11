@@ -1,5 +1,8 @@
-[![npm version](https://badge.fury.io/js/un-source-map.svg)](https://badge.fury.io/js/un-source-map)
-[![Twitter](https://img.shields.io/twitter/url/https/www.npmjs.com/package/un-source-map.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fun-source-map)
+[![npm version](https://badge.fury.io/js/@sabbirshouvo%2Fun-source-map.svg)](https://badge.fury.io/js/@sabbirshouvo%2Fun-source-map)
+[![GitHub issues](https://img.shields.io/github/issues/sh-sabbir/un-source-map)](https://github.com/sh-sabbir/un-source-map/issues)
+[![GitHub stars](https://img.shields.io/github/stars/sh-sabbir/un-source-map)](https://github.com/sh-sabbir/un-source-map/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/sh-sabbir/un-source-map)](https://github.com/sh-sabbir/un-source-map/network)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40sabbirshouvo%2Fun-source-map)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40sabbirshouvo%2Fun-source-map)
 
 # Un-Source-Map (unmap)
 
